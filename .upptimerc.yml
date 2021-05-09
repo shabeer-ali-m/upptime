@@ -11,6 +11,10 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+    expectedStatusCodes:
+      - 200
+    assignees:
+      - shabeer-ali-m
 assignees: # Users to assign downtime issues (optional)
   - shabeer-ali-m
 
