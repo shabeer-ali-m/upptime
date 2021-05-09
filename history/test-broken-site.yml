@@ -1,7 +1,7 @@
 url: http://ahmadmart.in/test/
-status: up
-code: 200
-responseTime: 444
-lastUpdated: 2021-05-09T10:02:46.175Z
+status: down
+code: 400
+responseTime: 516
+lastUpdated: 2021-05-09T11:44:04.849Z
 startTime: Tue Apr 20 2021 09:46:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
