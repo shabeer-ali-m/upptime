@@ -11,6 +11,8 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+assignees: # Users to assign downtime issues (optional)
+  - shabeer-ali-m
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
